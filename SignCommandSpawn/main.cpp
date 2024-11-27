@@ -347,10 +347,6 @@ public:
 int main()
 {
     Block_entity_data obj;
-    string command = "";
-
-    string data = "";
-    int choose = 0;
 
     for (int i = 0; i < 4; i++) {
 
